@@ -1,0 +1,9 @@
+obj\Debug\arreglordenado.exe
+obj\Debug\arreglordenado.xml
+obj\Debug\arreglordenado.pdb
+bin\Debug\arreglordenado.exe
+bin\Debug\arreglordenado.pdb
+bin\Debug\arreglordenado.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\arreglordenado.Resources.resources
+obj\Debug\arreglordenado.vbproj.GenerateResource.Cache
